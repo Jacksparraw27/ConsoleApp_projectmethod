@@ -1,7 +1,8 @@
 ﻿
 using System;
 
-namespace Bubble_Sort
+namespace ConsoleApp1
+
 {
     class Program
     {
